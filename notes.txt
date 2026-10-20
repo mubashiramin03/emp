@@ -1,3 +1,6 @@
 helo from A 
+=======
+hello for B
+>>>>>>> branch-b
 just practicing git and git hub
 just adding more
