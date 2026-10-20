@@ -1,2 +1,3 @@
+hello for B
 just practicing git and git hub
 just adding more
