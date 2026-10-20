@@ -4,3 +4,4 @@ hello for B
 >>>>>>> branch-b
 just practicing git and git hub
 just adding more
+edited from git hub
